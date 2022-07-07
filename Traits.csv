@@ -1,0 +1,250 @@
+Species	Organism_group	Class	Order	Domain	Established	Trophic_level	Adaptive_trait	Depigmented	Eye_regression	Leg_elong	Behavior	Phys_adap	Wing
+Acacia mearnsii	plant	Magnoliopsida	Fabales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Acanthocyclops robustus	invertebrate	Hexanauplia	Cyclopoida	freshwater	1	omnivorous	1	1	0	0	1	0	0
+Acer pseudoplatanus	plant	Magnoliopsida	Sapindales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Achatina fulica	invertebrate	Gastropoda	Stylommatophora	terrestrial	NA	herbivore	0	NA	NA	NA	NA	NA	0
+Allajulus latestriatus	invertebrate	Diplopoda	Julida	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Allolobophora trapezoides	invertebrate	Clitellata	Crassiclitellata	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Ameiurus melas	vertebrate	Actinopterygii	Siluriformes	freshwater	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Amynthas diffringens	invertebrate	Clitellata	Opisthopora	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Amynthas minimus	invertebrate	Clitellata	Opisthopora	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Anoplolepis gracilipes	invertebrate	Insecta	Hymenoptera	terrestrial	NA	omnivorous	0	NA	NA	NA	NA	NA	1
+Aporrectodea rosea	invertebrate	Clitellata	Crassiclitellata	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Aporrectodea sp.	invertebrate	Clitellata	Crassiclitellata	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Aporrectodea trapezoides	invertebrate	Clitellata	Crassiclitellata	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Aporrectodea tuberculata	invertebrate	Clitellata	Crassiclitellata	terrestrial	0	detritivore	1	1	1	0	0	0	0
+Arcitalitrus dorrieni	invertebrate	Malacostraca	Amphipoda	freshwater	1	omnivorous	0	NA	NA	NA	NA	NA	0
+Argyrodes argyrodes	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Arion circumscriptus	invertebrate	Gastropoda	Stylommatophora	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Arion subfuscus	invertebrate	Gastropoda	Stylommatophora	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Armadillidium vulgare	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Arrhopalites sp.	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Astyanax fasciatus	vertebrate	Actinopterygii	Characiformes	freshwater	1	omnivorous	1	1	1	0	0	0	0
+Bathysciola derosasi	invertebrate	Insecta	Coleoptera	terrestrial	1	omnivorous	1	1	1	0	1	1	0
+Bavia aericeps	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Blaniulus guttulatus	invertebrate	Diplopoda	Julida	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Bocconia frutescens	plant	Magnoliopsida	Ranunculales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Brachydesmus superus	invertebrate	Diplopoda	Polydesmida	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Brathinus nitidus	invertebrate	Insecta	Coleoptera	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Burmoniscus meeusei	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Caecidotea communis	invertebrate	Malacostraca	Isopoda	freshwater	1	detritivore	0	NA	NA	NA	NA	NA	0
+Caenoplana coerulea	invertebrate	Rhabditophora	Tricladida	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Cambarus tenebrosus	invertebrate	Malacostraca	Decapoda	freshwater	1	omnivorous	1	1	1	1	1	0	0
+Camelus dromedarius	vertebrate	Mammalia	Artiodactyla	freshwater	0	herbivore	0	NA	NA	NA	NA	NA	0
+Campodea quilisi	invertebrate	Entognatha	Diplura	terrestrial	NA	detritivore	1	1	0	1	0	0	0
+Cantikus elongatus	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Carassius carassius	vertebrate	Actinopterygii	Cyprinodontiformes	freshwater	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Cenchrus ciliaris	plant	Liliopsida	Poales	freshwater	0	primary producer	0	NA	NA	NA	NA	NA	0
+Ceratophysella denticulata	invertebrate	Entognatha	Collembola	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Ceratophysella gibbosa	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	0	0	0	0	0	0	0
+Cercyon inquinatus	invertebrate	Insecta	Coleoptera	terrestrial	0	predator	0	NA	NA	NA	NA	NA	1
+Charinus ioanniticus	invertebrate	Arachnida	Amblypygi	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Chondromorpha kelaarti	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Choneiulus subterraneus	invertebrate	Diplopoda	Julida	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Chrondrodesmus kelaarti	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Cimex lectularius	invertebrate	Insecta	Hemiptera	terrestrial	0	parasite	0	NA	NA	NA	NA	NA	0
+Cinnamomum camphora	plant	Magnoliopsida	Laurales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Cinnamomum verum	plant	Magnoliopsida	Laurales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Clarias gariepinus	vertebrate	Actinopterygii	Siluriformes	freshwater	1	omnivorous	0	NA	NA	NA	NA	NA	0
+Clogmia albipunctata	invertebrate	Insecta	Diptera	terrestrial	1	herbivore	0	NA	NA	NA	NA	NA	1
+Cocos nucifera	plant	Magnoliopsida	Arecales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Coecobrya communis	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Coecobrya tenebricosa	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Corbicula fulminea	invertebrate	Bivalvia	Venerida	freshwater	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Corticaria serrata	invertebrate	Insecta	Coleoptera	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	1
+Crangonyx pseudogracilis	invertebrate	Malacostraca	Amphipoda	freshwater	1	omnivorous	1	1	0	0	0	0	0
+Crenitis digesta	invertebrate	Insecta	Coleoptera	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	1
+Creugas gulosus	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Cryptops (Cryptops) hortensis	invertebrate	Chilopoda	Scolopendromorpha	terrestrial	1	predator	1	1	0	0	0	0	0
+Cryptopygus constrictus	invertebrate	Entognatha	Collembola	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Cyclosa albisternis 	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Cylindroiulus latestriatus	invertebrate	Diplopoda	Julida	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Cylisticus convexus	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Cyphoderus assimilis	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	1	1	0	0	0	0	0
+Cyphoderus similis	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Dendrodrilus rubidus	invertebrate	Clitellata	Crassiclitellata	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Diacyclops bisetosus	invertebrate	Hexanauplia	Cyclopoida	freshwater	1	omnivorous	1	1	0	0	1	0	0
+Diestrammena asynamora	invertebrate	Insecta	Orthoptera	terrestrial	NA	omnivorous	1	0	0	1	1	0	0
+Diploptera punctata	invertebrate	Insecta	Blattodea	terrestrial	NA	omnivorous	0	NA	NA	NA	NA	NA	1
+Dolichoiulus typhlops	invertebrate	Diplopoda	Julida	terrestrial	NA	detritivore	1	0	0	0	1	0	0
+Dolichopoda laetitiae	invertebrate	Insecta	Orthoptera	terrestrial	1	omnivorous	1	0	0	1	1	0	0
+Dolichopoda ligustica	invertebrate	Insecta	Orthoptera	terrestrial	1	omnivorous	1	0	0	1	1	0	0
+Dolichopoda schiavazzii	invertebrate	Insecta	Orthoptera	terrestrial	1	omnivorous	1	0	0	1	1	0	0
+Dysdera crocata 	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Eidmannella pallida	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1		0
+Eiseniella tetraedra	invertebrate	Clitellata	Crassiclitellata	terrestrial	0	detritivore	1	1	1	0	0	0	0
+Entomobrya nivalis	invertebrate	Entognatha	Collembola	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Equus caballus	vertebrate	Mammalia	Perissodactyla	freshwater	0	herbivore	0	NA	NA	NA	NA	NA	0
+Euborellia annulipes	invertebrate	Insecta	Dermaptera	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Eucalyptus tereticornis	plant	Magnoliopsida	Myrtales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Eucyclops serrulatus	invertebrate	Hexanauplia	Cyclopoida	freshwater	1	omnivorous	1	1	0	0	1	0	0
+Eukoenenia hanseni	invertebrate	Arachnida	Palpigradi	terrestrial	1	predator	1	1	0	0	0	0	0
+Euspilotus rubriculus	invertebrate	Insecta	Coleoptera	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Faxonius neglectus	invertebrate	Malacostraca	Decapoda	freshwater	1	omnivorous	0	NA	NA	NA	NA	NA	0
+Faxonius neglectus chaenodactylus	invertebrate	Malacostraca	Decapoda	freshwater	1	omnivorous	0	NA	NA	NA	NA	NA	0
+Felix catus	vertebrate	Mammalia	Carnivora	freshwater	0	predator	0	NA	NA	NA	NA	NA	0
+Ferrissia californica	invertebrate	Gastropoda	Planorbidae	freshwater	1	herbivore	0	NA	NA	NA	NA	NA	0
+Folsomia candida	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Folsomia fimetaria	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Friesea sublimis	invertebrate	Entognatha	Collembola	terrestrial	0	detritivore	1	1	1	0	0	0	0
+Gambusia affinis	vertebrate	Actinopterygii	Cyprinodontiformes	freshwater	NA	predator	0	NA	NA	NA	NA	NA	0
+Gambusia holbrooki	vertebrate	Actinopterygii	Cyprinodontiformes	freshwater	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Geholaspis mandibularis	invertebrate	Arachnida	Mesostigmata	terrestrial	0	predator	1	0	1	0	0	0	0
+Grevillea robusta	plant	Magnoliopsida	Proteales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Haematoloecha rubescens	invertebrate	Insecta	Hemiptera	terrestrial	1	predator	0	NA	NA	NA	NA	NA	1
+Halophiloscia couchii	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Hanseniella unguiculata	invertebrate	Symphyla	Scutigerellidae	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Haplophthalmus danicus	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Hasarius adansoni	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Hermetia illucens	invertebrate	Insecta	Diptera	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	1
+Heteromurus nitidus	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Heteropoda venatoria	invertebrate	Arachnida	Araneae	terrestrial	0	predator	0	NA	NA	NA	NA	NA	0
+Hofmannophila pseudospretella	invertebrate	Insecta	Lepidoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Holocneminus cf. piritarsis	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Homidia socia	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Homodesmus parvus	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Hydromantes sp.	vertebrate	Amphibia	Caudata	terrestrial	0	predator	1	0	0	0	1	0	0
+Hyloniscus riparius	invertebrate	Malacostraca	Isopoda	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Hypoponera opaciceps	invertebrate	Insecta	Hymenoptera	terrestrial	NA	omnivorous	0	NA	NA	NA	NA	NA	1
+Hypoponera punctatissima	invertebrate	Insecta	Hymenoptera	terrestrial	NA	predator	1	0	1	0	0	0	1
+Isometrus maculatus	invertebrate	Arachnida	Scorpiones	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Isotoma notabilis	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Laemostenus complanatus	invertebrate	Insecta	Coleoptera	terrestrial	0	predator	0	NA	NA	NA	NA	NA	0
+Lamyctes fulvicornis	invertebrate	Chilopoda	Lithobiomorpha	terrestrial	0	predator	0	NA	NA	NA	NA	NA	0
+Lantana camara	plant	Magnoliopsida	Lamiales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Latrodectus geometricus	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Lepidocyrtus cyaneus	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Lepidocyrtus fimetarius	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Lepidocyrtus ruber	invertebrate	Entognatha	Collembola	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Linepithema humile	invertebrate	Insecta	Hymenoptera	terrestrial	NA	omnivorous	0	NA	NA	NA	NA	NA	1
+Liposcelis entomophila	invertebrate	Insecta	Psocodea	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Lithobius (Lithobius) forficatus	invertebrate	Chilopoda	Lithobiomorpha	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Lithobius obscurus	invertebrate	Chilopoda	Lithobiomorpha	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Loxosceles rufescens	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1	0	0
+Lumbricus terrestris	invertebrate	Clitellata	Crassiclitellata	terrestrial	0	detritivore	1	1	1	0	0	0	0
+Macrocyclops albidus	invertebrate	Hexanauplia	Cyclopoida	freshwater	0	predator	0	NA	NA	NA	NA	NA	0
+Megaselia brunneipalpata	invertebrate	Insecta	Diptera	terrestrial	NA	omnivorous	0	NA	NA	NA	NA	NA	1
+Megaselia scalaris	invertebrate	Insecta	Diptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Melanoides tuberculatus	invertebrate	Gastropoda	NA	freshwater	1	herbivore	0	NA	NA	NA	NA	NA	0
+Mesogastrura libyca	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Mesogastrura libyca libyca	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	1	1	0	0	0	0	0
+Mesophorura sp. krausbaueri	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Mesovelia amoena	invertebrate	Insecta	Hemiptera	freshwater	1	herbivore	0	NA	NA	NA	NA	NA	1
+Meta bourneti	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1	0	0
+Metaltella simoni	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Monopis crocicapitella	invertebrate	Insecta	Lepidoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Neanura muscorum	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Nesticella mogera	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Nesticus cellulanus	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	1	0	0	0	0	0
+Nesticus eremita	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	1	0	0	1	0	0
+Nicoletia phytophila	invertebrate	Insecta	Zygentoma	terrestrial	1	detritivore	1	1	1	1	0	0	0
+Nopoiulus kochii	invertebrate	Diplopoda	Julida	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Obolodiplosis robiniae	invertebrate	Insecta	Diptera	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	1
+Octolasion lacteum	invertebrate	Clitellata	Crassiclitellata	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Oecia oecophila	invertebrate	Insecta	Lepidoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Oecobius navus	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Oligolophus tridens	invertebrate	Arachnida	Opiliones	terrestrial	0	predator	0	NA	NA	NA	NA	NA	0
+Oniscus asellus	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Onychiurus folsomi	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Onychiurus sp. fimetarius	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Ophyiulus pilosus	invertebrate	Diplopoda	Julida	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Opogona omoscoma	invertebrate	Insecta	Lepidoptera	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	1
+Oranmorpha guerinii	invertebrate	Diplopoda	Polydesmida	terrestrial	NA	detritivore	0	NA	NA	NA	NA	NA	0
+Oreochromis sp.	vertebrate	Actinopterygii	Perciformes	freshwater	NA	omnivorous	0	NA	NA	NA	NA	NA	0
+Orthomorpha coarctata	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Orthonychiurus folsomi	invertebrate	Entognatha	Collembola	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Ostearius melanopygius	invertebrate	Arachnida	Araneae	terrestrial	0	predator	0	NA	NA	NA	NA	NA	0
+Oxidus gracilis	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Pachydellus hades	invertebrate	Arachnida	Mesostigmata	terrestrial	0	predator	1	0	1	0	0	0	0
+Pachylaelaps humeralis	invertebrate	Arachnida	Mesostigmata	terrestrial	0	predator	1	0	1	0	0	0	0
+Pachyseius humeralis	invertebrate	Arachnida	Mesostigmata	terrestrial	1	predator	1	0	1	0	0	0	0
+Parabathyscia dematteisi	invertebrate	Insecta	Coleoptera	terrestrial	1	omnivorous	1	1	1	0	1	1	0
+Paracyclops fimbriatus	invertebrate	Hexanauplia	Cyclopoida	freshwater	1	omnivorous	1	1	0	0	1	0	0
+Paraleptoneta spinimana	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	1	1	0	1	0	0
+Parasteatoda tepidariorum	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Paratrechina bourbonica	invertebrate	Insecta	Hymenoptera	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	1
+Pergamasus quisquillarum	invertebrate	Arachnida	Mesostigmata	terrestrial	0	predator	1	0	1	0	0	0	0
+Periplaneta  sp.	invertebrate	Insecta	Blattodea	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Periplaneta americana	invertebrate	Insecta	Blattodea	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Periplaneta australasiae	invertebrate	Insecta	Blattodea	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Pheidole megacephala	invertebrate	Insecta	Hymenoptera	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	1
+Phereoeca allutella	invertebrate	Insecta	Lepidoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Phereoeca uterella	invertebrate	Insecta	Lepidoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Pholcus phalangioides	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1	0	0
+Phyllonorycter strigulatella	invertebrate	Insecta	Lepidoptera	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	1
+Pinus radiata	plant	Pinopsida	Pinales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Poecilia reticulata	vertebrate	Actinopterygii	Cyprinodontiformes	freshwater	NA	predator	0	NA	NA	NA	NA	NA	0
+Polydesmus angustus	invertebrate	Diplopoda	Polydesmida	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Polydesmus barberii	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Porcellio dilatatus	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Porcellio laevis	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Porcellio scaber	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Porcellionides pruinosus	invertebrate	Malacostraca	Isopoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Potamopyrgus antipodarum	invertebrate	Gastropoda	Littorinimorpha	freshwater	1	herbivore	0	NA	NA	NA	NA	NA	0
+Procambarus clarkii	invertebrate	Malacostraca	Decapoda	freshwater	1	omnivorous	1	0	0	0	1	0	0
+Proctolaelaps pygmaeus	invertebrate	Arachnida	Mesostigmata	terrestrial	1	predator	1	0	1	0	0	0	0
+Proisotoma perparva	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Propolydesmus laevidentatus	invertebrate	Diplopoda	Polydesmida	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Prosopodesmus jacobsoni	invertebrate	Diplopoda	Polydesmida	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Protaphorura armata	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	1	0	0	0	0
+Proteroiulus fuscus	invertebrate	Diplopoda	Julida	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Proteus anguinus	vertebrate	Amphibia	Caudata	freshwater	0	predator	1	1	1	0	1	1	0
+Protojapyx major	invertebrate	Entognatha	Diplura	terrestrial	NA	predator	1	1	0	0	0	0	0
+Pseudospirobolellus avernus	invertebrate	Diplopoda	Spirobolida	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Psidium guajava	plant	Magnoliopsida	Myrtales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Psilochorus simoni	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1	0	0
+Ptinus exulans	invertebrate	Insecta	Coleoptera	terrestrial	1	herbivore	0	NA	NA	NA	NA	NA	1
+Pueraria phaesoloides	plant	Magnoliopsida	Fabales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Pycnoscelus surinamensis	invertebrate	Insecta	Blattodea	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Pyralis manihotalis	invertebrate	Insecta	Lepidoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Quedius fulgidus	invertebrate	Insecta	Coleoptera	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Quedius mesomelinus	invertebrate	Insecta	Coleoptera	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Rattus rattus	vertebrate	Mammalia	Rodentia	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Rhipicephalus sanguineus	invertebrate	Arachnida	Ixodida	terrestrial	0	parasite	0	NA	NA	NA	NA	NA	0
+Rhopalosiphoninus latysiphon	invertebrate	Insecta	Hemiptera	terrestrial	1	herbivore	0	NA	NA	NA	NA	NA	1
+Schinus terebinthifolius	plant	Magnoliopsida	Sapindales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Sciaphus asperatus	invertebrate	Insecta	Coleoptera	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	0
+Scleropages formosus	vertebrate	Actinopterygii	Osteoglossiformes	freshwater	NA	predator	0	NA	NA	NA	NA	NA	0
+Scutigerella armata	invertebrate	Symphyla	NA	terrestrial	NA	detritivore	1	1	1	0	0	0	0
+Scytodes longipes	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1	0	0
+Sinella caeca	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Sinella yosiia	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	1	0	0	0	1	0	0
+Smeringopus pallidus	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Solenopsis invicta	invertebrate	Insecta	Hymenoptera	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	1
+Solenopsis sp.	invertebrate	Insecta	Hymenoptera	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	1
+Speleomantes ambrosii	vertebrate	Amphibia	Caudata	terrestrial	1	predator	1	0	0	0	0	1	0
+Speleomantes italicus	vertebrate	Amphibia	Caudata	terrestrial	1	predator	1	0	0	0	0	1	0
+Speleomantes strinatii	vertebrate	Amphibia	Caudata	terrestrial	1	predator	1	0	0	0	0	1	0
+Speonomus diecki	invertebrate	Insecta	Coleoptera	terrestrial	1	omnivorous	1	1	1	0	1	1	0
+Speonomus longicornis	invertebrate	Insecta	Coleoptera	terrestrial	1	omnivorous	1	1	1	0	1	1	0
+Speonomus normandi hydrophilus	invertebrate	Insecta	Coleoptera	terrestrial	1	omnivorous	1	1	1	0	1	1	0
+Speonomus stygius	invertebrate	Insecta	Coleoptera	terrestrial	1	omnivorous	1	1	1	0	1	1	0
+Steatoda cf. erigoniformis	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Steatoda grossa	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Steatoda nobilis	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Steatoda triangulosa	invertebrate	Arachnida	Araneae	terrestrial	NA	predator	0	NA	NA	NA	NA	NA	0
+Stenochrus portoricensis	invertebrate	Arachnida	Schizomida	terrestrial	1	predator	1	0	1	0	0	0	0
+Stenoptilodes taprobanes	invertebrate	Insecta	Lepidoptera	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	1
+Strumigenys rogeri	invertebrate	Insecta	Hymenoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Subulina octona	invertebrate	Gastropoda	Stylommatophora	terrestrial	1	herbivore	0	NA	NA	NA	NA	NA	0
+Synthesiomyia nudiseta	invertebrate	Insecta	Diptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Tabebuia pallida	plant	Magnoliopsida	Lamiales	terrestrial	0	primary producer	0	NA	NA	NA	NA	NA	0
+Talitroides alluaudi	invertebrate	Malacostraca	Amphipoda	terrestrial	1	detritivore	1	1	0	0	0	0	0
+Talitroides topitotum	invertebrate	Malacostraca	Amphipoda	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Tandonia budapestensis	invertebrate	Gastropoda	Stylommatophora	terrestrial	0	herbivore	0	NA	NA	NA	NA	NA	0
+Tegenaria domestica	invertebrate	Arachnida	Araneae	terrestrial	1	predator	1	0	0	0	1	0	0
+Teleogryllus oceanicus	invertebrate	Insecta	Orthoptera	terrestrial	NA	omnivorous	0	NA	NA	NA	NA	NA	0
+Tetramorium lucayanus	invertebrate	Insecta	Hymenoptera	terrestrial	1	omnivorous	0	NA	NA	NA	NA	NA	1
+Tomocerus minor	invertebrate	Entognatha	Collembola	terrestrial	1	detritivore	0	NA	NA	NA	NA	NA	0
+Trachelipus rathkei	invertebrate	Malacostraca	Isopoda	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Triaeris stenaspis	invertebrate	Arachnida	Araneae	terrestrial	1	predator	0	NA	NA	NA	NA	NA	0
+Trichia hispida	invertebrate	Gastropoda	Stylommatophora	terrestrial	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Trichorhina tomentosa	invertebrate	Malacostraca	Isopoda	terrestrial	NA	detritivore	1	1	0	0	0	0	0
+Troglophilus neglectus	invertebrate	Insecta	Orthoptera	terrestrial	0	detritivore	1	1	1	1	1	1	0
+Tropocyclops prasinus	invertebrate	Hexanauplia	Cyclopoida	freshwater	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Veigaia planicola	invertebrate	Arachnida	Mesostigmata	terrestrial	0	predator	1	1	1	0	0	0	0
+Veigaia pusilla	invertebrate	Arachnida	Mesostigmata	terrestrial	0	predator	1	1	1	0	0	0	0
+Veigaia serrata	invertebrate	Arachnida	Mesostigmata	terrestrial	1	predator	1	0	1	0	0	0	0
+Vitronura giselae	invertebrate	Entognatha	Collembola	terrestrial	0	detritivore	0	NA	NA	NA	NA	NA	0
+Vulpes vulpes	vertebrate	Mammalia	Carnivora	freshwater	0	omnivorous	0	NA	NA	NA	NA	NA	0
+Xiphophorus maculatus	vertebrate	Actinopterygii	Cyprinodontiformes	freshwater	NA	omnivorous	0	NA	NA	NA	NA	NA	0
